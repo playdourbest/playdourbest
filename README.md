@@ -20,8 +20,6 @@
     </a> Upload the main code here.(AI)
 </div><br>
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=sallang-dancing&theme=default)](https://sallang-dancing.tistory.com)
-
  
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
