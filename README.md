@@ -18,6 +18,9 @@
     <a href="https://sallang-dancing.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a> Upload the main code here.(AI)
+  
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=sallang-dancing&theme=default)](https://sallang-dancing.tistory.com/)
+
 </div><br>
 
  
