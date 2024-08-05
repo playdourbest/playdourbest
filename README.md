@@ -1,6 +1,6 @@
 <div align="left">
   
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Play%20Do%20Your%20Best%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Play%20Do%20Your%20Best%20&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 ---
 
 
