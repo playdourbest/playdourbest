@@ -48,7 +48,6 @@
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter Notebook-0071B5?style=for-the-badge&logo=Jupyter Notebook&logoColor=black">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
   <!-- 개발환경 -->
   <p><strong>Environment</strong></p>
