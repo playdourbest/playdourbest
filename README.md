@@ -9,8 +9,8 @@
 
 <a href="https://solved.ac/jwy913">
   <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwy913" alt="Solved.ac 프로필">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=playdourbest&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=playdourbest&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 
 ---
 ## 💻 My log 💻
