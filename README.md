@@ -53,7 +53,6 @@
   <!-- 개발환경 -->
   <p><strong>Environment</strong></p>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
   <!-- 커뮤 -->
   <p><strong>Others</strong></p>
   <img src="https://img.shields.io/badge/Backbone.js-0071B5?style=for-the-badge&logo=backbone.js&logoColor=black">
