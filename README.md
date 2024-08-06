@@ -7,10 +7,11 @@
 ---
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fplaydourbest&count_bg=%2379C83D&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<a href="https://solved.ac/jwy913">
-  <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwy913" alt="Solved.ac 프로필">
-</a>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=playdourbest&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+<p>
+    <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwy913" alt="Solved.ac 프로필">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=playdourbest&layout=compact" alt="Top Langs">
+</p>
+​
 
 ---
 ## 💻 My log 💻
