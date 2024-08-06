@@ -1,21 +1,16 @@
 <div align="left">
   
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Play%20Do%20Your%20Best%20&animation=twinkling&fontSize=40&fontAlignY=40&fontAlign=50&height=180&desc=AI%20Developer%20WooYoung's%20git" alt="header">
 </div>
 
 ---
-
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fplaydourbest&count_bg=%2379C83D&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <a href="https://solved.ac/jwy913">
   <img height="190em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwy913" alt="Solved.ac 프로필">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=playdourbest&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </a>
-
- 
-<br>
 
 ---
 ## 💻 My log 💻
