@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <!-- 프레임워크와 라이브러리 -->
-  <p><strong>Framework and Library</strong></p>
+  <p><strong>Framework AND Library</strong></p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
   <img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
@@ -57,6 +57,7 @@
   <!-- 개발환경 -->
   <p><strong>Environment</strong></p>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <!-- 커뮤 -->
   <p><strong>Others</strong></p>
   <img src="https://img.shields.io/badge/Backbone.js-0071B5?style=for-the-badge&logo=backbone.js&logoColor=black">
