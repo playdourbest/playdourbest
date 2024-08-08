@@ -12,7 +12,7 @@
     <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwy913" alt="Solved.ac 프로필"></p>​
 
 ---
-## 🚀 main language 🚀
+## 🚀 Main language 🚀
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=playdourbest&layout=compact" alt="Top Langs">
 
 
@@ -35,7 +35,7 @@
 </div><br>
 
 ---
-## 🔨 Once I've used 🔨
+## 🔨 Skills 🔨
 <div style="display:flex; flex-direction:row;">
   <!-- 프로그래밍 언어 -->
   <p><strong>Programming</strong></p>
