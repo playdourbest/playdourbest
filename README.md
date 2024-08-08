@@ -25,6 +25,8 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
     <a href="https://open.kakao.com/o/scpxMwHg">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"></a>
+    <a href="mailto:jwy913@naver.com">
+      <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white" alt="Naver Badge" /></a>
 </div><br>
 
 ---
