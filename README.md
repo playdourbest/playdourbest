@@ -9,24 +9,22 @@
 
 <p>
     <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwy913" alt="Solved.ac 프로필">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=playdourbest&layout=compact" alt="Top Langs">
-</p>
-​
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=playdourbest&layout=compact" alt="Top Langs"></p>​
 
 ---
 ## 💻 My log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://sallang-dancing.tistory.com/">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a> Upload the main code here.(AI)
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a> Upload the main code here.(AI)
 </div><br>
 
 ---
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:jjj91393@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+    <a href="https://open.kakao.com/o/scpxMwHg">
+        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"></a>
 </div><br>
 
 ---
@@ -35,6 +33,7 @@
   <!-- 프로그래밍 언어 -->
   <p><strong>Programming</strong></p>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <!-- 프레임워크와 라이브러리 -->
   <p><strong>Framework AND Library</strong></p>
@@ -42,6 +41,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
   <img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
   <br>
+  <!-- 라이브러리는 여기에 -->
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white">
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
@@ -62,6 +62,5 @@
   <p><strong>Others</strong></p>
   <img src="https://img.shields.io/badge/Backbone.js-0071B5?style=for-the-badge&logo=backbone.js&logoColor=black">
 </div>
-
 </div>
 
